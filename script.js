@@ -1,6 +1,6 @@
 "use strict";
 // 初回接続時に、GASの「ウェブアプリURL（/exec）」を貼り付けてください。
-const GAS_WEB_APP_URL = "";
+const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyjbev_TFdYw0YWGIynRwFs2aAttZCick5UIcjN8VJukF2Y7poyajovav72e6HZR2Pz/exec";
 // 正式な規約・プライバシーポリシーURLが未設定のため、本番受付は開始しないでください。
 const CONFIG = Object.freeze({ exhibitionStart: "2026-10-10", exhibitionEnd: "2026-10-26" });
 const reservation = document.querySelector("#reservation");
